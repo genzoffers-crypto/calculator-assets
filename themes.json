@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/genzoffers-crypto/calculator-assets@main/themes",
+  "themes": [
+    {
+      "id": "dino",
+      "name": "Dino",
+      "image": "dino.webp",
+      "bgColor": "#F9F9FE",
+      "primaryColor": "#4ADE80",
+      "secondaryColor": "#8B6F47",
+      "tertiaryColor": "#2D4A37",
+      "category": "fun",
+      "premium": false
+    },
+    {
+      "id": "eye",
+      "name": "Eye",
+      "image": "eye.webp",
+      "bgColor": "#EDE9FE",
+      "primaryColor": "#818CF8",
+      "secondaryColor": "#6B4C9A",
+      "tertiaryColor": "#1A2A4A",
+      "category": "dark",
+      "premium": false
+    },
+    {
+      "id": "garden",
+      "name": "Garden",
+      "image": "garden.webp",
+      "bgColor": "#E8F5E9",
+      "primaryColor": "#4ADE80",
+      "secondaryColor": "#D4A0A0",
+      "tertiaryColor": "#3D5C3A",
+      "category": "nature",
+      "premium": false
+    }
+  ]
+}
