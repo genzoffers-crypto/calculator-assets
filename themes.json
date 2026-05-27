@@ -1,8 +1,8 @@
 {
-  "version": 3,
-  "baseUrl":"https://raw.githubusercontent.com/genzoffers-crypto/calculator-assets/main/themes",
-  "themes": [
-    {
+  "version": 2,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/genzoffers-crypto/calculator-assets@main/themes",
+  "themes": []
+}
       "id": "dino",
       "name": "Dino",
       "image": "dino.webp",
