@@ -34,6 +34,28 @@
       "tertiaryColor": "#3D5C3A",
       "category": "nature",
       "premium": false
+    },
+    {
+      "id": "anime1",
+      "name": "Anime 1",
+      "image": "anime1.webp",
+      "bgColor": "#FFF0F5",
+      "primaryColor": "#F472B6",
+      "secondaryColor": "#A78BFA",
+      "tertiaryColor": "#4C1D95",
+      "category": "anime",
+      "premium": false
+    },
+    {
+      "id": "anime2",
+      "name": "Anime 2",
+      "image": "anime2.webp",
+      "bgColor": "#EFF6FF",
+      "primaryColor": "#60A5FA",
+      "secondaryColor": "#C084FC",
+      "tertiaryColor": "#1E3A5F",
+      "category": "anime",
+      "premium": false
     }
   ]
 }
