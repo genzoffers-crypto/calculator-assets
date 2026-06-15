@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/genzoffers-crypto/calculator-assets@main/formulas",
+  "updatedAt": "2026-06-15",
+  "subjects": [
+    { "id": "mathematics", "name": "Mathematics", "order": 1 },
+    { "id": "physics", "name": "Physics", "order": 2 },
+    { "id": "chemistry", "name": "Chemistry", "order": 3 },
+    { "id": "biology", "name": "Biology", "order": 4 },
+    { "id": "computer", "name": "Computer", "order": 5 }
+  ],
+  "chapters": [
+    { "id": "calculus", "subjectId": "mathematics", "name": "Calculus", "tags": "LIMITS | DERIVATIVES | INTEGRALS", "order": 1 },
+    { "id": "linear-algebra", "subjectId": "mathematics", "name": "Linear Algebra", "tags": "MATRICES | VECTORS | EIGENVALUES", "order": 2 },
+    { "id": "topology", "subjectId": "mathematics", "name": "Topology", "tags": "COMPACTNESS | HOMOTOPY | MANIFOLDS", "order": 3 },
+    { "id": "statistics", "subjectId": "mathematics", "name": "Statistics", "tags": "BAYESIAN | DISTRIBUTIONS", "order": 4 },
+    { "id": "number-theory", "subjectId": "mathematics", "name": "Number Theory", "tags": "PRIMES | CONGRUENCE | CRYPTOGRAPHY", "order": 5 },
+    { "id": "mechanics", "subjectId": "physics", "name": "Mechanics", "tags": "NEWTON | ENERGY | MOMENTUM", "order": 1 },
+    { "id": "optics", "subjectId": "physics", "name": "Optics", "tags": "REFLECTION | REFRACTION | LENSES", "order": 2 },
+    { "id": "waves", "subjectId": "physics", "name": "Waves", "tags": "SOUND | EM WAVES | SUPERPOSITION", "order": 3 },
+    { "id": "thermodynamics", "subjectId": "physics", "name": "Thermodynamics", "tags": "HEAT | ENTROPY | LAWS", "order": 4 },
+    { "id": "organic", "subjectId": "chemistry", "name": "Organic", "tags": "HYDROCARBONS | REACTIONS", "order": 1 },
+    { "id": "inorganic", "subjectId": "chemistry", "name": "Inorganic", "tags": "ACIDS | BASES | SALTS", "order": 2 },
+    { "id": "physical-chem", "subjectId": "chemistry", "name": "Physical", "tags": "EQUILIBRIUM | KINETICS", "order": 3 },
+    { "id": "cell", "subjectId": "biology", "name": "Cell", "tags": "ORGANELLES | MITOSIS", "order": 1 },
+    { "id": "genetics", "subjectId": "biology", "name": "Genetics", "tags": "DNA | RNA | HEREDITY", "order": 2 },
+    { "id": "ecology", "subjectId": "biology", "name": "Ecology", "tags": "ECOSYSTEMS | BIOMES", "order": 3 },
+    { "id": "data-structures", "subjectId": "computer", "name": "Data Structures", "tags": "ARRAYS | LISTS | TREES", "order": 1 },
+    { "id": "algorithms", "subjectId": "computer", "name": "Algorithms", "tags": "SORTING | SEARCHING | GRAPHS", "order": 2 },
+    { "id": "operating-systems", "subjectId": "computer", "name": "Operating Systems", "tags": "PROCESSES | MEMORY | I/O", "order": 3 }
+  ],
+  "formulas": [
+    {
+      "id": "math-calculus-derivatives",
+      "subjectId": "mathematics",
+      "chapterId": "calculus",
+      "title": "Derivative Formulas",
+      "image": "mathematics/calculus/derivatives.webp",
+      "tags": "LIMITS | RULES | DIFFERENTIATION",
+      "order": 1,
+      "premium": false
+    },
+    {
+      "id": "math-calculus-antiderivatives",
+      "subjectId": "mathematics",
+      "chapterId": "calculus",
+      "title": "Antiderivative Formulas",
+      "image": "mathematics/calculus/antiderivatives.webp",
+      "tags": "INTEGRATION | INDEFINITE",
+      "order": 2,
+      "premium": false
+    },
+    {
+      "id": "math-calculus-trigonometric",
+      "subjectId": "mathematics",
+      "chapterId": "calculus",
+      "title": "Trigonometric Identities",
+      "image": "mathematics/calculus/trigonometric-identities.webp",
+      "tags": "SIN | COS | TAN | IDENTITIES",
+      "order": 3,
+      "premium": false
+    },
+    {
+      "id": "math-calculus-limit-laws",
+      "subjectId": "mathematics",
+      "chapterId": "calculus",
+      "title": "Limit Laws",
+      "image": "mathematics/calculus/limit-laws.webp",
+      "tags": "LIMITS | PROPERTIES | RULES",
+      "order": 4,
+      "premium": false
+    },
+    {
+      "id": "math-calculus-integration",
+      "subjectId": "mathematics",
+      "chapterId": "calculus",
+      "title": "Integration Formulas",
+      "image": "mathematics/calculus/integration.webp",
+      "tags": "INTEGRALS | RULES | DEFINITE",
+      "order": 5,
+      "premium": false
+    }
+  ]
+}
