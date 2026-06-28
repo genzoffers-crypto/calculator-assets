@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "baseUrl": "https://cdn.jsdelivr.net/gh/genzoffers-crypto/calculator-assets@main/sounds",
+  "sounds": [
+    {
+      "id": "echo-pop",
+      "name": "Echo Pop",
+      "file": "echo-pop.mp3",
+      "category": "pop",
+      "description": "Resonant bubble pop with echo",
+      "color": "#818CF8",
+      "premium": false
+    },
+    {
+      "id": "pop-click",
+      "name": "Pop Click",
+      "file": "pop-click.mp3",
+      "category": "click",
+      "description": "Satisfying mechanical pop",
+      "color": "#F472B6",
+      "premium": false
+    },
+    {
+      "id": "soft-tap",
+      "name": "Soft Tap",
+      "file": "soft-tap.mp3",
+      "category": "tap",
+      "description": "Gentle finger tap",
+      "color": "#4ADE80",
+      "premium": false
+    },
+    {
+      "id": "glass-touch",
+      "name": "Glass Touch",
+      "file": "glass-touch.mp3",
+      "category": "tap",
+      "description": "Elegant glass surface touch",
+      "color": "#38BDF8",
+      "premium": false
+    },
+    {
+      "id": "bubble",
+      "name": "Bubble",
+      "file": "bubble.mp3",
+      "category": "pop",
+      "description": "Light bubble burst",
+      "color": "#FBBF24",
+      "premium": false
+    },
+    {
+      "id": "micro-tap",
+      "name": "Micro Tap",
+      "file": "micro-tap.mp3",
+      "category": "click",
+      "description": "Quick micro switch click",
+      "color": "#FB7185",
+      "premium": false
+    },
+    {
+      "id": "snap",
+      "name": "Snap",
+      "file": "snap.mp3",
+      "category": "click",
+      "description": "Crisp finger snap",
+      "color": "#A78BFA",
+      "premium": false
+    }
+  ]
+}
